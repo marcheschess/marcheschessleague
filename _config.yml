@@ -36,9 +36,10 @@ show-opinion: false
 show-admin_notes: false
 
 # Homepage - club specific values
-regular-meeting-info: We are attempting to get a Chess League going covering 
+regular-meeting-info: We are attempting to get a Chess League going covering the Marches.
 venue-link: https://commons.wikimedia.org/wiki/File:Ludlow_Castle_from_Whitcliffe,_2011.jpg
 venue-picture: "https://upload.wikimedia.org/wikipedia/commons/5/54/Ludlow_Castle_from_Whitcliffe%2C_2011.jpg"
+venue-caption: "Ludlow Castle"
 #display-pgn-file: "pgn/classics.pgn" # FIXME This cannot be changed 
 
 # The rest of this file concerns site structure - you are unlikely to want to change it

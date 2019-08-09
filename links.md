@@ -10,7 +10,8 @@ permalink: /links.html
 
 
 ### Other nearby Chess Clubs ###
-Many nearby chess clubs have web sites which are hopelessly out of date. These clubs may be more up to date.
+Some nearby chess clubs have web sites which are hopelessly out of date. These clubs may be more up to date.
+* [Abergavenny Chess Club]( http://abergavennychessclub.co.uk/)
 * [Presteigne Chess Club]( http://presteignechess.club/)
 * [Shrewsbury Chess Club](http://www.shrewsburychessclub.org/)
 
